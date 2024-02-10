@@ -1,5 +1,5 @@
 # bfbVanarsenaSpMat
-sparse Matrix | Build For Bharat | Team - Vanarsena
+sparse Matrix | Build For Bharat | Team - Vanarsena (Nirmal Shah ,  Lyric Khare)
 
 ## Quick-Start
 ```
